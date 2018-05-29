@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.2\8b68a849722b44f584e2d68c451c5e3844c10380\support-annotations-26.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.2.aar\009ba7718c02b3db4fa715e896885cbd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f6e937fc4829662d169f20da6f208e053f3714a8">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\c691a1d0b192d7065a4cc225c06e01c8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\c1ea1023afeff4661df7d0ce0a58c394\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\fa6edce2690d18d928bdd3785205d746\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94d358351559620a2c3d2ba3ac04d03a59a61bb3">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\9a2ef459fc4c090a330accd3658e0249\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\234c6b79aecca132da6b5fa991de0cb3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\ab23b6f8ac3e5f1c674f7feb38221b30\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\cd07d7f2913ab5d95af3dbef2faf5db7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f4ed87c67c527f7b762c3fa5a9d73c89\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\transforms-1\files-1.1\transition-26.0.2.aar\e1295d62941d071ca4ae6fe83b42eeef\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="df0c541b5406292d1c3d74fc8ea119bde14e77b0">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\6fdbde1bbb3b23177fa8809eac0bbd96\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\f854048ead5c286730ef1f6e16b8abf4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\f75cf21f83770a39803fc402724aa13e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\transforms-1\files-1.1\design-26.0.2.aar\0b6973e87fca5ec3ad22b9ad49316168\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53762fb1daacc5e5fb9ce83c4d00365f71c10f1a">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\transforms-1\files-1.1\preference-v7-26.0.2.aar\5eea86b5d8ec0bcd78c864fdab337acb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ab715677f9ff7c484578c5c977f89d3f39ebb43">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\4c463b110b5b610badcd7bf19e8ca422\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\28778838108e1cb47d0d9e657fd71f24\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\edc85bf4c8568f713c082a51e82bbc67\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\6424c9d1da20fd9eea4dd1417c759e58\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\9976a36747a63f107eb44cd3819dee86\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="C:\Users\crush\Documents\Holy Qur&apos;an App\ElSagradoCoran2\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+
+</items>
