@@ -1053,11 +1053,12 @@ public class MainActivity extends AppCompatActivity implements ViewPager.OnPageC
 
     @Override
     public void onPause() {
+        super.onPause();
         SharedPreferences settings = this.getSharedPreferences(PREFS_NAME, 0);
         SharedPreferences.Editor editor = settings.edit();
         editor.putInt("lastPage", mCurrentPage.getIndex()); //////SAVE LAST PAGE ON PAUSE
-        super.onPause();
-        editor.commit();
+        editor.apply();
+
     }
 
 
@@ -1073,7 +1074,7 @@ public class MainActivity extends AppCompatActivity implements ViewPager.OnPageC
         SharedPreferences settings = this.getSharedPreferences(PREFS_NAME, 0);
         SharedPreferences.Editor editor = settings.edit();
         editor.putInt("lastPage", mCurrentPage.getIndex());  /////ON STOP, SAVE THE LAST PAGE
-        editor.commit();
+        editor.apply();
     }
 
     public void onDestroy(){

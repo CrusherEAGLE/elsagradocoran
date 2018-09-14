@@ -8,5 +8,6 @@
 
     <style name="AppTheme.Launcher">
         <item name="android:windowBackground">@drawable/splash</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
     </style>
 </resources>
